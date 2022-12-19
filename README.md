@@ -37,10 +37,22 @@ The fox can capture a hen and eliminate it from the board by jumping over it in 
 </center>
 
 ### END OF THE GAME
+ The fox wins if he manages to eliminate 7 geese. The geese win if they manage to block the fox.
+ 
+-----------------------------------------------------------------------------------------------------
+## LOOK OF THE GAME
+When first running the game, the game will appear like the game boardgame. [***Here the human is the Fox and the AI, the goose.***]
 
+<img src="./doc/img/1.png" alt="alt text" width="300" height="300" /><img src="./doc/img/2.png" alt="alt text" width="300" height="300" /><img src="./doc/img/3.png" alt="alt text" width="300" height="300" /><img src="./doc/img/5.png" alt="alt text" width="300" height="300" /><img src="./doc/img/6.png" alt="alt text" width="300" height="300" /><img src="./doc/img/7.png" alt="alt text" width="300" height="300" />
 
+After a few moves from the Fox...
 
-The fox wins if he manages to eliminate 7 geese. The geese win if they manage to block the fox.
+<img src="./doc/img/8.png" alt="alt text" width="300" height="300" />
+
+We ate a Goose!
+
+<img src="./doc/img/9.png" alt="alt text" width="300" height="300" />
+
 
 ------------------------------------------------------------------------------------------------------
 ## User interface – How to play the game
@@ -80,3 +92,9 @@ Enjoy the game...
 ``` 
 --module-path /usr/share/openjfx/lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
 ``` 
+
+**Add JavaFX, JUnit tutorial...**
+
+https://cours-info.iut-bm.univ-fcomte.fr/index.php/menu-cours-s2/mmi1bobj-menu-2/2265-tutoriel-1-creer-un-projet-idea-utilisant-le-framework-gamifier        
+https://cours-info.iut-bm.univ-fcomte.fr/index.php/menu-cours-s2/mmi1bobj-menu-2/2283-tutoriel-2-ajouter-junit-a-un-projet-idea-gamifier
+
