@@ -41,7 +41,7 @@ The fox can capture a hen and eliminate it from the board by jumping over it in 
  
 -----------------------------------------------------------------------------------------------------
 ## LOOK OF THE GAME
-When first running the game, the game will appear like the game boardgame. [***Here the human is the Fox and the AI, the goose.***]
+When first running the game, the game will appear like this. [***Here the human is the Fox and the AI, the goose.***]
 
 <img src="./doc/img/1.png" alt="alt text" width="300" height="300" /><img src="./doc/img/2.png" alt="alt text" width="300" height="300" /><img src="./doc/img/3.png" alt="alt text" width="300" height="300" /><img src="./doc/img/5.png" alt="alt text" width="300" height="300" /><img src="./doc/img/6.png" alt="alt text" width="300" height="300" /><img src="./doc/img/7.png" alt="alt text" width="300" height="300" />
 
